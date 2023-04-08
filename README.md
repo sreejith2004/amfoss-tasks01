@@ -11,7 +11,7 @@
 [Task-00](https://github.com/sreejith2004/amfoss-tasks01/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/sreejith2004/amfoss-tasks01/task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/sreejith2004/amfoss-tasks01/master/task-02)|Terminal Hunt |Completed
-[Task-03](https://github.com/sreejith2004/amfoss-tasks01/task-03)|Programming|Done Six Questions
+[Task-03](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-03)|Programming|Done Six Questions
 [Task-04](https://github.com/sreejith2004/amfoss-tasks01/task-04)|CineBot|Completed
 [Task-05](https://github.com/sreejith2004/amfoss-tasks01/task-05)|Find The Bug|Not Attempted till yet
 [Task-06](https://github.com/sreejith2004/amfoss-tasks01/task-06)|Flame game|Completed
