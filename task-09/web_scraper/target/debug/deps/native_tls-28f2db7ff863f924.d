@@ -1,0 +1,8 @@
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/native_tls-28f2db7ff863f924.rmeta: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/imp/openssl.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/libnative_tls-28f2db7ff863f924.rlib: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/imp/openssl.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/native_tls-28f2db7ff863f924.d: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/imp/openssl.rs
+
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/lib.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/native-tls-0.2.11/src/imp/openssl.rs:

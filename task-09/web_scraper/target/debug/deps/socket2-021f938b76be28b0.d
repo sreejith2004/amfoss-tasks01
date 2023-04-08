@@ -1,0 +1,11 @@
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/socket2-021f938b76be28b0.rmeta: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/libsocket2-021f938b76be28b0.rlib: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/socket2-021f938b76be28b0.d: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs:

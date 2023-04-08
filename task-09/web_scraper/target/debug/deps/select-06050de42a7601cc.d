@@ -1,0 +1,11 @@
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/select-06050de42a7601cc.rmeta: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/document.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/node.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/predicate.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/selection.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/libselect-06050de42a7601cc.rlib: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/document.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/node.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/predicate.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/selection.rs
+
+/home/sreejithp/Documents/amfoss-tasksold/amfoss-tasks/tasks01/task-09/web_scraper/src/main1/target/debug/deps/select-06050de42a7601cc.d: /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/lib.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/document.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/node.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/predicate.rs /home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/selection.rs
+
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/lib.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/document.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/node.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/predicate.rs:
+/home/sreejithp/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.6.0/src/selection.rs:
