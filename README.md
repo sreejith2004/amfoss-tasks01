@@ -9,7 +9,7 @@
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/sreejith2004/amfoss-tasks01/task-00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/sreejith2004/amfoss-tasks01/task-00)|Staring amFOSS repositories|Completed
+[Task-01](https://github.com/sreejith2004/amfoss-tasks01/task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/sreejith2004/amfoss-tasks01/master/task-02)|Terminal Hunt |Completed
 [Task-03](https://github.com/sreejith2004/amfoss-tasks01/task-03)|Programming|Done Six Questions
 [Task-04](https://github.com/sreejith2004/amfoss-tasks01/task-04)|CineBot|Completed
