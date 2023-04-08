@@ -8,22 +8,22 @@
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/sreejith2004/amfoss-tasks01/task-00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/sreejith2004/amfoss-tasks01/task-01)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/sreejith2004/amfoss-tasks01/master/task-02)|Terminal Hunt |Completed
+[Task-00](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-00)|Installing Ubuntu|Completed
+[Task-01](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-01)|Staring amFOSS repositories|Completed
+[Task-02](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-02)|Terminal Hunt |Completed
 [Task-03](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-03)|Programming|Done Six Questions
-[Task-04](https://github.com/sreejith2004/amfoss-tasks01/task-04)|CineBot|Completed
-[Task-05](https://github.com/sreejith2004/amfoss-tasks01/task-05)|Find The Bug|Not Attempted till yet
-[Task-06](https://github.com/sreejith2004/amfoss-tasks01/task-06)|Flame game|Completed
-[Task-07](https://github.com/sreejith2004/amfoss-tasks01/task-07)|Go WASM|Completed
-[Task-08](https://github.com/sreejith2004/amfoss-tasks01/task-08)|Internet Explorer|Completed
-[Task-09](https://github.com/sreejith2004/amfoss-tasks01/task-09)|Krypto Scrapper|Completed
-[Task-10](https://github.com/sreejith2004/amfoss-tasks01/task-10)|CS50|Completed
-[Task-11](https://github.com/sreejith2004/amfoss-tasks01/task-11)|Figma Ninja|not Completed
-[Task-12](https://github.com/sreejith2004/amfoss-tasks01/task-12)| Bunny Heist|not Completed
-[Task-13](https://github.com/sreejith2004/amfoss-tasks01/task-13)|Footfall Counter|Completed
-[Task-14](https://github.com/sreejith2004/amfoss-tasks01/task-14)|Bandit|Completed
-[Task-15](https://github.com/sreejith2004/amfoss-tasks01/task-15)|Project Euler|Completed
+[Task-04](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-04)|CineBot|Completed
+[Task-05](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-05)|Find The Bug|Not Attempted till yet
+[Task-06](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-06)|Flame game|Completed
+[Task-07](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-07)|Go WASM|Completed
+[Task-08](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-08)|Internet Explorer|Completed
+[Task-09](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-09)|Krypto Scrapper|Completed
+[Task-10](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-10)|CS50|Completed
+[Task-11](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-11)|Figma Ninja|not Completed
+[Task-12](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-12)| Bunny Heist|not Completed
+[Task-13](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-13)|Footfall Counter|Completed
+[Task-14](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-14)|Bandit|Completed
+[Task-15](https://github.com/sreejith2004/amfoss-tasks01/tree/master/task-15)|Project Euler|Completed
 ## My views about the tasks
 ## My Introduction
 
